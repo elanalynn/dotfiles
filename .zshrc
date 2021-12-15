@@ -6,6 +6,6 @@ antigen bundle git
 
 antigen bundle zsh-users/zsh-syntax-highlighting
 
-antigen theme miloshadzic 
+antigen theme cloud 
 
 antigen apply
