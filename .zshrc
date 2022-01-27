@@ -9,3 +9,7 @@ antigen bundle zsh-users/zsh-syntax-highlighting
 antigen theme cloud 
 
 antigen apply
+
+# git aliases
+alias sc="systemctl"
+alias jc="journalctl"
