@@ -21,3 +21,6 @@ ln -vsfn ~/dotfiles/.zshrc ~/.zshrc
 
 echo -e "Update path..."
 PATH=~/dotfiles/bin:$PATH
+
+echo -e "Installing VS Code plugins..."
+code --install-extension yoavbls.pretty-ts-errors
